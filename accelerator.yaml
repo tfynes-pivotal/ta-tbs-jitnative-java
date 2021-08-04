@@ -1,0 +1,13 @@
+accelerator:
+  displayName: Java - JIT and Native Hello World Example
+  description: Java Hello World example with both JIT and native packaging
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  tags: []
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'

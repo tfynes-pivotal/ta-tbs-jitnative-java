@@ -1,0 +1,9 @@
+apiVersion: accelerator.tanzu.vmware.com/v1alpha1
+kind: Accelerator
+metadata:
+  name: ta-tbs-jitnative-java
+spec:
+  git:
+    url: git clone https://github.com/tfynes-pivotal/ta-tbs-jitnative-java
+    ref:
+      branch: main
