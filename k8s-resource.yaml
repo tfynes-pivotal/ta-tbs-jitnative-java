@@ -4,6 +4,6 @@ metadata:
   name: ta-tbs-jitnative-java
 spec:
   git:
-    url: git clone https://github.com/tfynes-pivotal/ta-tbs-jitnative-java
+    url: https://github.com/tfynes-pivotal/ta-tbs-jitnative-java
     ref:
       branch: main
