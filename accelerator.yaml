@@ -1,7 +1,7 @@
 accelerator:
   displayName: Java - JIT and Native Hello World Example
   description: Java Hello World example with both JIT and native packaging
-  iconUrl: https://github.com/tfynes-pivotal/ta-scg-decorator/blob/main/icon.png?raw=true
+  iconUrl: https://github.com/tfynes-pivotal/ta-tbs-jitnative-java/blob/main/icon.png?raw=true
   tags: []
   options:
   - name: optionName
